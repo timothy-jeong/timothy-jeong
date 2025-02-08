@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Timothy!
 
-I'm a backend developer based in South Korea.<br/>
-I've worked on various projects primarily using Python&FastAPI, Java&Spring Boot. </br>
+I'm a passionate **backend developer** based in **South Korea** who believes that growing together is a more impactful and lasting path to development than growing individually.  
+That's why I actively conduct reviews of the code and services I develop and enjoy documenting and sharing my work within the company. In 2024, I was recognized as the most active contributor to Confluence documentation at my company.
+
+Because of my interest in growing together, I was selected as a **Culture Committee member** and continue to contribute to our collaborative work environment.
 
 ## 🔧 Tech Stack
 
