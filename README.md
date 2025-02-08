@@ -10,6 +10,10 @@ I've worked on various projects primarily using Python&FastAPI, Java&Spring Boot
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 - **Cloud**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+## Open Source Contributions
+
+- **[FastAPI](https://github.com/fastapi/fastapi)**: Translation & Documentation
+
 ## 📫 Contact
 
 - **Email**: [k.jts8257@gmail.com](mailto:k.jts8257@gmail.com)
