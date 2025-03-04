@@ -7,6 +7,7 @@ Because of my interest in growing together, I was selected as a **Culture Commit
 
 ### Open Source Contributions
 
+- **[Starlette](https://github.com/encode/starlette/pull/2885)**: Documentate CORSMiddleware
 - **[FastAPI](https://github.com/fastapi/fastapi)**: Translation & Documentation
 - **[PublicDataReader](https://github.com/WooilJeong/PublicDataReader)**: Refactoring & Add Exception handling
 
