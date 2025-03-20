@@ -1,8 +1,7 @@
-# 👋 Hello, I'm Timothy!
-
-I'm a passionate **backend developer** based in **South Korea** who believes that growing together is a more impactful and lasting path to development than growing individually.  
-
-Because of my interest in growing together, I was selected as a **Culture Committee member** and continue to contribute to our collaborative work environment.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Timothy.;I'm+a+backend+developer." alt="typing intro">
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=timothy-jeong&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
 
 ### Open Source Contributions
 
