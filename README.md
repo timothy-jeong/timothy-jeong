@@ -9,8 +9,8 @@
 - **[PublicDataReader](https://github.com/WooilJeong/PublicDataReader)**: Refactoring & Add Exception handling
 
 ### 🛠️ Tech Stack
-- **Languages**: Java, Python, Go
-- **Frameworks**: Spring Boot, FastAPI
+- **Languages**: Java, Python, Rust
+- **Frameworks**: Spring Boot, FastAPI, Dajngo
 - **Databases**: PostgreSQL, Redis
 - **Cloud**: AWS (ECS, RDS, EKS)
 
