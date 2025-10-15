@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothy-jeong&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
 
 ### 👥 Open Source Contributions
-- **[Starlette, PR#2885](https://github.com/encode/starlette/pull/2885)**: I discovered an issue, analyzed the root cause, and contributed by updating the official documentation.
+- **[Starlette](https://github.com/encode/starlette/pull/2885)**: I discovered an issue, analyzed the root cause, and contributed by updating the official documentation.
 - **[FastAPI](https://github.com/fastapi/fastapi)**: Translation & Documentation
 - **[PublicDataReader](https://github.com/WooilJeong/PublicDataReader)**: Refactoring & Add Exception handling
 
