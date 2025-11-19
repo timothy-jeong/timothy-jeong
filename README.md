@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothy-jeong&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
 
 ### 👥 Open Source Contributions
-- **[Starlette](https://github.com/encode/starlette/pull/2885)**: I discovered an issue, analyzed the root cause, and contributed by updating the official documentation.
+- **[pydantic-ai](https://github.com/pydantic/pydantic-ai/issues/3088#event-21029104457)**: add `GoogleModel` Exception Handling
+- **[Starlette](https://github.com/encode/starlette/pull/2885)**: updating the official documentation for `CORSMiddleware`
 - **[FastAPI](https://github.com/fastapi/fastapi)**: Translation & Documentation
-- **[PublicDataReader](https://github.com/WooilJeong/PublicDataReader)**: Refactoring & Add Exception handling
 
 ### 🛠️ Tech Stack
 - **Languages**: Java, Python, Rust
