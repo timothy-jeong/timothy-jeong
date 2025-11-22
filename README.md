@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothy-jeong&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
 
 ### 👥 Open Source Contributions
-- **[pydantic-ai](https://github.com/pydantic/pydantic-ai/issues/3088#event-21029104457)**: add `GoogleModel` Exception Handling
+- **[pydantic-ai, v1.20.0](https://github.com/pydantic/pydantic-ai/issues/3088#event-21029104457)**: add `GoogleModel` Exception Handling
 - **[Starlette](https://github.com/encode/starlette/pull/2885)**: updating the official documentation for `CORSMiddleware`
 - **[FastAPI](https://github.com/fastapi/fastapi)**: Translation & Documentation
 
