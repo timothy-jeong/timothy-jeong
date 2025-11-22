@@ -9,10 +9,10 @@
 - **[FastAPI](https://github.com/fastapi/fastapi)**: Translation & Documentation
 
 ### 🛠️ Tech Stack
-- **Languages**: Java, Python, Rust
-- **Frameworks**: Spring Boot, FastAPI, Dajngo
+- **Languages**: Python, Rust, Java
+- **Frameworks**: FastAPI, Dajngo, Spring Boot
 - **Databases**: PostgreSQL, Redis
-- **Cloud**: AWS (ECS, RDS, EKS)
+- **Cloud**: AWS (ECS, RDS, EKS, Bedrock, etc)
 
 ### 📫 Contact
 
