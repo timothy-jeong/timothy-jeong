@@ -12,7 +12,7 @@
 - **Languages**: Python, Rust, Java
 - **Frameworks**: FastAPI, Dajngo, Spring Boot
 - **Databases**: PostgreSQL, Redis
-- **Cloud**: AWS (ECS, RDS, EKS, Bedrock, etc)
+- **Cloud**: AWS (ECS, RDS, EKS, Bedrock, etc), Alibaba Cloud
 
 ### 📫 Contact
 
